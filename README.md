@@ -4,6 +4,8 @@ Information Technology Student @ Sri Sairam Engineering College
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio]                                              
 - 🌱 I’m currently learning and Integrating AI to my workflow
+- <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/704c74ee-8224-45db-af61-7886e3e32d9e" />
+
 - ⚡ Fun fact: I know Japanese.
 - Social Presence
  <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bharathraja-s-757261384?utm_source=share_via&utm_content=profile&utm_medium=member_android) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_bharaxo_?igsh=OXhkbjA3ejZpZGs4&igsi=OXhkbjA3ejZpZGs4)
@@ -18,6 +20,6 @@ src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/>
 
 
 ### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> 
 
 
