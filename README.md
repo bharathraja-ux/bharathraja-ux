@@ -6,7 +6,6 @@ Information Technology Student @ Sri Sairam Engineering College
 - 🌱 I’m currently learning and Integrating AI to my workflow
 - 🔗 I’m looking to collaborate on ML/AI
 - 🧑🏻‍💻 I’m looking for help with Internships
-- ⚡ Fun fact: I know Japanese.
 - Social Presence
  <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bharathraja-s-757261384?utm_source=share_via&utm_content=profile&utm_medium=member_android) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_bharaxo_?igsh=OXhkbjA3ejZpZGs4&igsi=OXhkbjA3ejZpZGs4)
 
