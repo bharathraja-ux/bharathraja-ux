@@ -4,7 +4,7 @@ Information Technology Student @ Sri Sairam Engineering College
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio]                                              
 - 🌱 I’m currently learning and Integrating AI to my workflow
-- <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/704c74ee-8224-45db-af61-7886e3e32d9e" />
+- <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/704c74ee-8224-45db-af61-7886e3e32d9e" />
 
 - ⚡ Fun fact: I know Japanese.
 - Social Presence
